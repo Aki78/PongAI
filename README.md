@@ -8,4 +8,4 @@ The AI with a neural network was trained in 2 steps, first learn to follow the b
 The relevant inputs were [xBall,yBall,xSelf,ySelf,xOppo,yOppo,vxBall,vyBall,vxSelf,vySelf,vxOppo,vyOppo], and output was the decision [up,stay,down].
 
 Interesting Note:
-At some point in training step 2, it learned to vibrate rappidly like a bee to kick the ball out of phase on the edge to bounce the ball rapidly so that the opponent couldn't follow it fast enough.
+At some point in training step 2, it learned to vibrate rappidly like a bee to kick the ball out of phase on the edge to bounce the ball rapidly so that the opponent couldn't follow it fast enough, which was surprising.
